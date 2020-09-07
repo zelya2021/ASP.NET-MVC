@@ -1,0 +1,24 @@
+﻿@using BookPhone.Models
+@{
+    ViewBag.Title = "Список абонентов";
+    var abonents = ViewData["abonents"] as List<Abonent>;
+}
+@Html.ActionLink("Add new abonent", "Add")
+<h2>Index</h2>
+
+<div class="abonent">
+    @foreach (var abonent in abonents)
+     {
+        <img src=@abonent.Image class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">@abonent.Name</h5>
+            <p class="card-text">@abonent.SurName</p>
+            <p class="card-text">@abonent.Number</p>
+        </div>
+        <button type="button" class="btn btn-info">@Html.ActionLink("View", "Detail", new { id = abonent.Id })</button>
+        <button type="button" class="btn btn-info"> @Html.ActionLink("Delete", "Delete", new { id = abonent.Id })</button>
+        <button type="button" class="btn btn-info"> @Html.ActionLink("Edit", "Edit", new { id = abonent.Id })</button>
+     }
+ </div>
+
+

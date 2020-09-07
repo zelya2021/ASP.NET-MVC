@@ -1,0 +1,496 @@
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\BookPhone.dll.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\BookPhone.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\BookPhone.pdb
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\csc.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\csc.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\csc.rsp
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\csi.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\csi.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\csi.rsp
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.AppContext.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Collections.Immutable.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Console.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.IO.Compression.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.IO.FileSystem.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.IO.Pipes.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Reflection.Metadata.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Security.AccessControl.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Security.Claims.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.ValueTuple.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Xml.XPath.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\vbc.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\vbc.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\vbc.rsp
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\VBCSCompiler.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\roslyn\VBCSCompiler.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\Antlr3.Runtime.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\Microsoft.Web.Infrastructure.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\Newtonsoft.Json.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.Helpers.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.Mvc.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.Optimization.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.Razor.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.WebPages.Deployment.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.WebPages.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.WebPages.Razor.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\WebGrease.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.Helpers.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.Mvc.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.Optimization.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.Razor.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.WebPages.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.WebPages.Deployment.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\System.Web.WebPages.Razor.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\Newtonsoft.Json.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\Antlr3.Runtime.pdb
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\ru\System.Web.Helpers.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\ru\System.Web.Mvc.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\ru\System.Web.Optimization.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\ru\System.Web.Razor.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\ru\System.Web.WebPages.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\obj\Debug\BookPhone.csprojAssemblyReference.cache
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\obj\Debug\BookPhone.csproj.CoreCompileInputs.cache
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\obj\Debug\BookPhone.csproj.CopyComplete
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\obj\Debug\BookPhone.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 01\BookPhone\BookPhone\obj\Debug\BookPhone.pdb
+E:\ASP\BookPhone\BookPhone\bin\BookPhone.dll.config
+E:\ASP\BookPhone\BookPhone\bin\BookPhone.dll
+E:\ASP\BookPhone\BookPhone\bin\BookPhone.pdb
+E:\ASP\BookPhone\BookPhone\bin\roslyn\csc.exe
+E:\ASP\BookPhone\BookPhone\bin\roslyn\csc.exe.config
+E:\ASP\BookPhone\BookPhone\bin\roslyn\csc.rsp
+E:\ASP\BookPhone\BookPhone\bin\roslyn\csi.exe
+E:\ASP\BookPhone\BookPhone\bin\roslyn\csi.exe.config
+E:\ASP\BookPhone\BookPhone\bin\roslyn\csi.rsp
+E:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.AppContext.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Console.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.Compression.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.Pipes.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.AccessControl.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Claims.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.ValueTuple.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Xml.XPath.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP\BookPhone\BookPhone\bin\roslyn\vbc.exe
+E:\ASP\BookPhone\BookPhone\bin\roslyn\vbc.exe.config
+E:\ASP\BookPhone\BookPhone\bin\roslyn\vbc.rsp
+E:\ASP\BookPhone\BookPhone\bin\roslyn\VBCSCompiler.exe
+E:\ASP\BookPhone\BookPhone\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP\BookPhone\BookPhone\bin\Antlr3.Runtime.dll
+E:\ASP\BookPhone\BookPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP\BookPhone\BookPhone\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP\BookPhone\BookPhone\bin\Newtonsoft.Json.dll
+E:\ASP\BookPhone\BookPhone\bin\System.Web.Helpers.dll
+E:\ASP\BookPhone\BookPhone\bin\System.Web.Mvc.dll
+E:\ASP\BookPhone\BookPhone\bin\System.Web.Optimization.dll
+E:\ASP\BookPhone\BookPhone\bin\System.Web.Razor.dll
+E:\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.Deployment.dll
+E:\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.dll
+E:\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.Razor.dll
+E:\ASP\BookPhone\BookPhone\bin\WebGrease.dll
+E:\ASP\BookPhone\BookPhone\bin\System.Web.Helpers.xml
+E:\ASP\BookPhone\BookPhone\bin\System.Web.Mvc.xml
+E:\ASP\BookPhone\BookPhone\bin\System.Web.Optimization.xml
+E:\ASP\BookPhone\BookPhone\bin\System.Web.Razor.xml
+E:\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.xml
+E:\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.Deployment.xml
+E:\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.Razor.xml
+E:\ASP\BookPhone\BookPhone\bin\Newtonsoft.Json.xml
+E:\ASP\BookPhone\BookPhone\bin\Antlr3.Runtime.pdb
+E:\ASP\BookPhone\BookPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP\BookPhone\BookPhone\bin\ru\System.Web.Helpers.resources.dll
+E:\ASP\BookPhone\BookPhone\bin\ru\System.Web.Mvc.resources.dll
+E:\ASP\BookPhone\BookPhone\bin\ru\System.Web.Optimization.resources.dll
+E:\ASP\BookPhone\BookPhone\bin\ru\System.Web.Razor.resources.dll
+E:\ASP\BookPhone\BookPhone\bin\ru\System.Web.WebPages.resources.dll
+E:\ASP\BookPhone\BookPhone\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\ASP\BookPhone\BookPhone\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.csprojAssemblyReference.cache
+E:\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.csproj.CopyComplete
+E:\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.dll
+E:\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.pdb
+F:\ASP\BookPhone\BookPhone\bin\BookPhone.dll.config
+F:\ASP\BookPhone\BookPhone\bin\BookPhone.dll
+F:\ASP\BookPhone\BookPhone\bin\BookPhone.pdb
+F:\ASP\BookPhone\BookPhone\bin\roslyn\csc.exe
+F:\ASP\BookPhone\BookPhone\bin\roslyn\csc.exe.config
+F:\ASP\BookPhone\BookPhone\bin\roslyn\csc.rsp
+F:\ASP\BookPhone\BookPhone\bin\roslyn\csi.exe
+F:\ASP\BookPhone\BookPhone\bin\roslyn\csi.exe.config
+F:\ASP\BookPhone\BookPhone\bin\roslyn\csi.rsp
+F:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.AppContext.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Collections.Immutable.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Console.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.Compression.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.FileSystem.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.Pipes.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Reflection.Metadata.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.AccessControl.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Claims.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.ValueTuple.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Xml.XPath.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ASP\BookPhone\BookPhone\bin\roslyn\vbc.exe
+F:\ASP\BookPhone\BookPhone\bin\roslyn\vbc.exe.config
+F:\ASP\BookPhone\BookPhone\bin\roslyn\vbc.rsp
+F:\ASP\BookPhone\BookPhone\bin\roslyn\VBCSCompiler.exe
+F:\ASP\BookPhone\BookPhone\bin\roslyn\VBCSCompiler.exe.config
+F:\ASP\BookPhone\BookPhone\bin\Antlr3.Runtime.dll
+F:\ASP\BookPhone\BookPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ASP\BookPhone\BookPhone\bin\Microsoft.Web.Infrastructure.dll
+F:\ASP\BookPhone\BookPhone\bin\Newtonsoft.Json.dll
+F:\ASP\BookPhone\BookPhone\bin\System.Web.Helpers.dll
+F:\ASP\BookPhone\BookPhone\bin\System.Web.Mvc.dll
+F:\ASP\BookPhone\BookPhone\bin\System.Web.Optimization.dll
+F:\ASP\BookPhone\BookPhone\bin\System.Web.Razor.dll
+F:\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.Deployment.dll
+F:\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.dll
+F:\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.Razor.dll
+F:\ASP\BookPhone\BookPhone\bin\WebGrease.dll
+F:\ASP\BookPhone\BookPhone\bin\System.Web.Helpers.xml
+F:\ASP\BookPhone\BookPhone\bin\System.Web.Mvc.xml
+F:\ASP\BookPhone\BookPhone\bin\System.Web.Optimization.xml
+F:\ASP\BookPhone\BookPhone\bin\System.Web.Razor.xml
+F:\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.xml
+F:\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.Deployment.xml
+F:\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.Razor.xml
+F:\ASP\BookPhone\BookPhone\bin\Newtonsoft.Json.xml
+F:\ASP\BookPhone\BookPhone\bin\Antlr3.Runtime.pdb
+F:\ASP\BookPhone\BookPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ASP\BookPhone\BookPhone\bin\ru\System.Web.Helpers.resources.dll
+F:\ASP\BookPhone\BookPhone\bin\ru\System.Web.Mvc.resources.dll
+F:\ASP\BookPhone\BookPhone\bin\ru\System.Web.Optimization.resources.dll
+F:\ASP\BookPhone\BookPhone\bin\ru\System.Web.Razor.resources.dll
+F:\ASP\BookPhone\BookPhone\bin\ru\System.Web.WebPages.resources.dll
+F:\ASP\BookPhone\BookPhone\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\ASP\BookPhone\BookPhone\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.csprojAssemblyReference.cache
+F:\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.csproj.CoreCompileInputs.cache
+F:\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.csproj.CopyComplete
+F:\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.dll
+F:\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.pdb
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\BookPhone.dll.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\BookPhone.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\BookPhone.pdb
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\csc.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\csc.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\csc.rsp
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\csi.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\csi.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\csi.rsp
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.AppContext.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Collections.Immutable.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Console.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.Compression.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.FileSystem.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.IO.Pipes.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Reflection.Metadata.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.AccessControl.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Claims.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.ValueTuple.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Xml.XPath.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\vbc.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\vbc.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\vbc.rsp
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\VBCSCompiler.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\roslyn\VBCSCompiler.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\Antlr3.Runtime.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\Microsoft.Web.Infrastructure.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\Newtonsoft.Json.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.Helpers.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.Mvc.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.Optimization.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.Razor.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.Deployment.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.Razor.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\WebGrease.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.Helpers.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.Mvc.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.Optimization.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.Razor.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.Deployment.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\System.Web.WebPages.Razor.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\Newtonsoft.Json.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\Antlr3.Runtime.pdb
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\ru\System.Web.Helpers.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\ru\System.Web.Mvc.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\ru\System.Web.Optimization.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\ru\System.Web.Razor.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\ru\System.Web.WebPages.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.csproj.CoreCompileInputs.cache
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.csproj.CopyComplete
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.pdb
+D:\Romaina_Mayer\additionally\self development\programming\ASP\BookPhone\BookPhone\obj\Debug\BookPhone.csprojAssemblyReference.cache
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\BookPhone.dll.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\BookPhone.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\BookPhone.pdb
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\csc.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\csc.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\csc.rsp
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\csi.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\csi.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\csi.rsp
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.AppContext.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Collections.Immutable.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Console.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.IO.Compression.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.IO.FileSystem.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.IO.Pipes.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Reflection.Metadata.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.AccessControl.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.Claims.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.ValueTuple.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Xml.XPath.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\vbc.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\vbc.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\vbc.rsp
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\VBCSCompiler.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\roslyn\VBCSCompiler.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\Antlr3.Runtime.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\Microsoft.Web.Infrastructure.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\Newtonsoft.Json.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.Helpers.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.Mvc.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.Optimization.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.Razor.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.WebPages.Deployment.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.WebPages.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.WebPages.Razor.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\WebGrease.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.Helpers.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.Mvc.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.Optimization.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.Razor.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.WebPages.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.WebPages.Deployment.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\System.Web.WebPages.Razor.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\Newtonsoft.Json.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\Antlr3.Runtime.pdb
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.Helpers.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.Mvc.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.Optimization.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.Razor.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.WebPages.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\obj\Debug\BookPhone.csproj.CoreCompileInputs.cache
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\obj\Debug\BookPhone.csproj.CopyComplete
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\obj\Debug\BookPhone.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\obj\Debug\BookPhone.pdb
+D:\Romaina_Mayer\additionally\self development\programming\ASP\Lesson 02\BookPhone\BookPhone\obj\Debug\BookPhone.csprojAssemblyReference.cache
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\BookPhone.dll.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\BookPhone.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\BookPhone.pdb
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\csc.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\csc.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\csc.rsp
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\csi.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\csi.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\csi.rsp
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.AppContext.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Collections.Immutable.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Console.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.IO.Compression.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.IO.FileSystem.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.IO.Pipes.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Reflection.Metadata.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.AccessControl.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.Claims.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.ValueTuple.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Xml.XPath.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\vbc.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\vbc.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\vbc.rsp
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\VBCSCompiler.exe
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\roslyn\VBCSCompiler.exe.config
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\Antlr3.Runtime.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\Microsoft.Web.Infrastructure.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\Newtonsoft.Json.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.Helpers.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.Mvc.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.Optimization.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.Razor.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.WebPages.Deployment.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.WebPages.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.WebPages.Razor.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\WebGrease.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.Helpers.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.Mvc.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.Optimization.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.Razor.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.WebPages.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.WebPages.Deployment.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\System.Web.WebPages.Razor.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\Newtonsoft.Json.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\Antlr3.Runtime.pdb
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.Helpers.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.Mvc.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.Optimization.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.Razor.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.WebPages.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\obj\Debug\BookPhone.csprojAssemblyReference.cache
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\obj\Debug\BookPhone.csproj.CopyComplete
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\obj\Debug\BookPhone.dll
+D:\Romaina_Mayer\additionally\self development\programming\ASP.Net\Lesson 02\BookPhone\BookPhone\obj\Debug\BookPhone.pdb

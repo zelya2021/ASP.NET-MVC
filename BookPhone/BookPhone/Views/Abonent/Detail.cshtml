@@ -1,0 +1,16 @@
+﻿@using BookPhone.Models
+@*@{
+        ViewBag.Title = "Detail";
+        var abonent = ViewData["abonent"] as List<Abonent>;
+    }*@
+@model Abonent
+<h2>Detail</h2>
+
+<h5 class="card-title">@Model.Name</h5>
+<p class="card-text">@Model.SurName</p>
+<p class="card-text">@Model.Number</p>
+
+
+@*<div>@ViewBag.Abonent</div>*@
+
+
