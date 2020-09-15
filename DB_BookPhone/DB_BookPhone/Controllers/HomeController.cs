@@ -1,4 +1,6 @@
-﻿using System;
+﻿using DB_BookPhone.Models;
+using DB_BookPhone.Models.Database;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,9 +10,14 @@ namespace DB_BookPhone.Controllers
 {
     public class HomeController : Controller
     {
+        static List<Abonent> abonents = new List<Abonent>();
         public ActionResult Index()
         {
-            return View();
+            using (DatabaseContext ctx=new DatabaseContext())
+            {
+                abonents = ctx.Abonents.ToList();
+            }
+            return View(abonents);
         }
 
         public ActionResult About()
