@@ -34,12 +34,9 @@ textarea {
 }
 
 .product img {
-        width: 100%;
+        width: 100px;
     }
 
-#img-preview {
-    width: 250px;
-}
 
 #loading img {
     width: 100px;
