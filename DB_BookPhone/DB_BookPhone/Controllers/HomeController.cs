@@ -24,10 +24,26 @@ namespace DB_BookPhone.Controllers
             }
             return View(abonents);
         }
-
         public ActionResult AddAbonent()
         {
-            return View();
+             return View();
+        }
+
+       [HttpPost]
+        public ActionResult AddAbonent(Abonent abonent, HttpPostedFileBase file)
+        {
+            //формирование пути для сохранения нового файла
+            string path = Server.MapPath($"~/Images/{file.FileName}");
+            file.SaveAs(path);
+
+            var last = abonents.Last();
+            abonent.Id = last is null ? 1 : last.Id + 1;
+            abonent.Image = $"{file.FileName}";
+
+            //добавление к общему списку
+            abonents.Add(abonent);
+
+            return RedirectToAction("Index");
         }
 
         public ActionResult Contact()
