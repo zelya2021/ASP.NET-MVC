@@ -18,7 +18,7 @@ namespace DB_BookPhone.Models.Database
                     Name = $"Name {i + 1}",
                     SurName = $"SurName {i + 1}",
                     Number = $"{06684593 +i}",
-                    Image= "https://www.pngmart.com/files/10/User-Account-Person-PNG-File.png",
+                    Image= "/Images/standart.png",
                 });
             }
             context.SaveChanges();
