@@ -25,10 +25,8 @@ namespace DB_BookPhone.Controllers
             return View(abonents);
         }
 
-        public ActionResult About()
+        public ActionResult AddAbonent()
         {
-            ViewBag.Message = "Your application description page.";
-
             return View();
         }
 

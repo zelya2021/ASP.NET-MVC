@@ -36,8 +36,10 @@ textarea {
 .product img {
         width: 100px;
     }
-
-
+#img-preview {
+    width: 100px;
+    margin-left: 30%;
+}
 #loading img {
     width: 100px;
 }
