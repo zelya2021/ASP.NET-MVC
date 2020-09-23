@@ -173,11 +173,10 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\SerchAbonent.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\_ListAbonentPartial.cshtml" />
-    <Content Include="Views\Home\AddAbonent.cshtml" />
     <Content Include="Views\Home\SerchedAbonents.cshtml" />
+    <Content Include="Views\Home\AddAbonent.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

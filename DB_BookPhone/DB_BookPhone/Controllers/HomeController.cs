@@ -29,22 +29,22 @@ namespace DB_BookPhone.Controllers
              return View();
         }
 
-       //[HttpPost]
-       // public ActionResult AddAbonent(Abonent abonent, HttpPostedFileBase file)
-       // {
-       //     //формирование пути для сохранения нового файла
-       //     string path = Server.MapPath($"~/Images/{file.FileName}");
-       //     file.SaveAs(path);
+        [HttpPost]
+        public ActionResult AddAbonent(Abonent abonent, HttpPostedFileBase file)
+        {
+            //формирование пути для сохранения нового файла
+            string path = Server.MapPath($"~/Images/{file.FileName}");
+            file.SaveAs(path);
 
-       //     var last = abonents.Last();
-       //     abonent.Id = last is null ? 1 : last.Id + 1;
-       //     abonent.Image = $"{file.FileName}";
+            var last = abonents.Last();
+            abonent.Id = last is null ? 1 : last.Id + 1;
+            abonent.Image = $"{file.FileName}";
 
-       //     //добавление к общему списку
-       //     abonents.Add(abonent);
+            //добавление к общему списку
+            abonents.Add(abonent);
 
-       //     return RedirectToAction("Index");
-       // }
+            return View("Index", abonents);
+        }
 
         public ActionResult SerchAbonent()
         {
@@ -60,7 +60,6 @@ namespace DB_BookPhone.Controllers
                 return new HttpStatusCodeResult(System.Net.HttpStatusCode.BadRequest);
             var srchResult = abonents.Where(p => p.Name == from).ToList();
             ;
-           // return Content("Hello");
             return View("Index", srchResult);
         }
     }

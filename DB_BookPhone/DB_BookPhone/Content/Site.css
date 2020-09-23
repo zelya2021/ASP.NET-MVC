@@ -33,8 +33,9 @@ textarea {
     margin: 1%;
 }
 
-.product img {
+.product img, inputFile {
         width: 100px;
+        height: 100px;
     }
 #img-preview {
     width: 100px;
