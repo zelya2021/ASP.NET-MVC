@@ -3,11 +3,12 @@
 
 <div class="product thumbnail">
     <img src="/Images/@Model.Image">
-    <div class="caption">
+    <div class="caption" style="text-align:center">
         <h3>@Model.Name</h3>
         <p>@Model.SurName</p>
         <p><strong>@Model.Number</strong></p>
         @Html.ActionLink("Detail", "DetailAbonent", "Home", new { id = @Model.Id }, new { @class = "btn btn-success" })
-        @Html.ActionLink("Edit", "Edit", "Home",new { id = @Model.Id }, new { @class = "btn btn-success" })
+        @Html.ActionLink("Edit", "Edit", "Home", new { id = @Model.Id }, new { @class = "btn btn-success" })
+        @Html.ActionLink("Delete", "Delete", "Home", new { id = @Model.Id }, new { @class = "btn btn-success" })
     </div>
 </div>

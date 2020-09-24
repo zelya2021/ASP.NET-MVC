@@ -121,5 +121,25 @@ namespace DB_BookPhone.Controllers
                 
             return RedirectToAction("Index",abonents);
         }
+        public ActionResult Delete(int? id)
+        {
+            if (id is null)
+            {
+                return new HttpNotFoundResult();
+            }
+            using (DatabaseContext ctx = new DatabaseContext())
+            {
+                var abonent = ctx.Abonents.FirstOrDefault(p => p.Id == id);
+                if (abonent is null)
+                {
+                    return new HttpNotFoundResult();
+                }
+                ctx.Abonents.Remove(abonent);
+                ctx.SaveChanges();
+                abonents = ctx.Abonents.ToList();
+            }
+               
+            return RedirectToAction("Index",abonents);
+        }
     }
 }
