@@ -1,0 +1,27 @@
+﻿@model DB_BookPhone.Models.Abonent
+
+@{
+    ViewBag.Title = "DetailAbonent";
+}
+
+<h2>DetailAbonent</h2>
+
+<div class="product thumbnail" style="width:20%">
+    <img src="/Images/@Model.Image">
+    <div class="caption" style="text-align: center">
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dd>
+            @Html.DisplayFor(model => model.SurName)
+        </dd>
+
+        <dd>
+            @Html.DisplayFor(model => model.Number)
+        </dd>
+    </div>
+</div>
+    <p>
+        @Html.ActionLink("Back to List", "Index")
+    </p>

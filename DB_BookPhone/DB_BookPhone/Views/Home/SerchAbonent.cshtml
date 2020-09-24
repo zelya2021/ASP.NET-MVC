@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "SerchAbonent";
+}
+
+<h2>SerchAbonent</h2>
+
+@using (@Ajax.BeginForm("SerchAbonent", new AjaxOptions
+{
+    UpdateTargetId = "ajax-response"                           //срабатывает когда сервер вернул ошибку
+}))
+{
+    <input type="text" name="from" placeholder="Enter Name..." />
+    <button>Search</button>
+}
+<div id="ajax-response"></div>
+
+@section scripts {
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+}

@@ -36,20 +36,26 @@ namespace DB_BookPhone.Controllers
             string path = Server.MapPath($"~/Images/{file.FileName}");
             file.SaveAs(path);
 
-            var last = abonents.Last();
-            abonent.Id = last is null ? 1 : last.Id + 1;
-            abonent.Image = $"{file.FileName}";
-
+            using (DatabaseContext ctx = new DatabaseContext())
+            {
+                ctx.Abonents.Add(new Abonent
+                {
+                    Image = $"{file.FileName}",
+                    Name = abonent.Name,
+                    SurName = abonent.SurName,
+                    Number = abonent.Number
+                });
+                ctx.SaveChanges();
+                abonents = ctx.Abonents.ToList();
+            }
             //добавление к общему списку
-            abonents.Add(abonent);
+            //abonents.Add(abonent);
 
-            return View("Index", abonents);
+            return View("Index",abonents);
         }
 
         public ActionResult SerchAbonent()
         {
-            ViewBag.Message = "Your contact page.";
-
             return View();
         }
 
@@ -59,8 +65,61 @@ namespace DB_BookPhone.Controllers
             if (from is null)
                 return new HttpStatusCodeResult(System.Net.HttpStatusCode.BadRequest);
             var srchResult = abonents.Where(p => p.Name == from).ToList();
+            if(srchResult is null) 
             ;
             return View("Index", srchResult);
+        }
+
+        public ActionResult DetailAbonent(int? id)
+        {
+            if (id is null)
+            {
+                return new HttpNotFoundResult();
+            }
+            var abonent = abonents.FirstOrDefault(p => p.Id == id);
+            if (abonent is null)
+            {
+                return new HttpNotFoundResult();
+            }
+            return View(abonent);
+        }
+
+        public ActionResult Edit(int? id)
+        {
+            if (id is null)
+            {
+                return new HttpNotFoundResult();
+            }
+            var abonent = abonents.FirstOrDefault(p => p.Id == id);
+            if (abonent is null)
+            {
+                return new HttpNotFoundResult();
+            }
+            return View(abonent);
+        }
+        [HttpPost]
+        public ActionResult Edit(Abonent abonent, HttpPostedFileBase file)
+        {
+            using (DatabaseContext ctx = new DatabaseContext())
+            {
+                var editAbonent = ctx.Abonents.FirstOrDefault(p => p.Id == abonent.Id);
+                if (editAbonent != null)
+                {
+                    editAbonent.Name = abonent.Name;
+                    editAbonent.SurName = abonent.SurName;
+                    editAbonent.Number = abonent.Number;
+                    if (file != null && abonent.Image != file.FileName)
+                    {
+                        string path = Server.MapPath($"~/Images/{file.FileName}");
+                        file.SaveAs(path);
+                        editAbonent.Image = $"{file.FileName}";
+                    }
+                }
+                ctx.SaveChanges();
+                abonents = ctx.Abonents.ToList();
+            }
+                
+            return RedirectToAction("Index",abonents);
         }
     }
 }

@@ -12,15 +12,16 @@ namespace DB_BookPhone.Models
         [HiddenInput(DisplayValue = false)]
         public int Id { get; set; }
         [Display(Name = "Изображение")]
+        [Required(ErrorMessage ="картинка не выбрана")]
         public string Image { get; set; }
-        [Required]//данное свойство должно быть обязательно установлено
-       // [RegularExpression(@"\w+", ErrorMessage = "Проверьте правильность ввода")]
+        [Required(ErrorMessage = "Введите имя")]
+        // [RegularExpression(@"\w+", ErrorMessage = "Проверьте правильность ввода")]
         [Display(Name = "Имя")]
         public string Name { get; set; }
-        [Required]
+        [Required(ErrorMessage = "Введите фамилию")]
         [Display(Name = "Фамилия")]
         public string SurName { get; set; }
-        [Required]
+        [Required(ErrorMessage = "Введите номер телефона")]
         [Display(Name = "Номер телефона")]
         [StringLength(12, ErrorMessage = "Макс. длина 12 символов")]
         public string Number { get; set; }

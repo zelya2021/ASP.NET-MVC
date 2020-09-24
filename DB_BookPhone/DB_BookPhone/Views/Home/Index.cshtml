@@ -1,8 +1,10 @@
 ﻿@using DB_BookPhone.Models
 @model List<Abonent>
-<div class="products">
-    @foreach (var abonent in Model)
-    {
-        @Html.Partial("_ListAbonentPartial", abonent)
-    }
-</div>
+    <div class="products">
+        @foreach (var abonent in Model)
+        {
+            @Html.Partial("_ListAbonentPartial", abonent)
+           
+        }
+    </div>
+
