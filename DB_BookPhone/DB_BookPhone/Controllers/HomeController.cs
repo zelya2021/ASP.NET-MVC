@@ -32,24 +32,30 @@ namespace DB_BookPhone.Controllers
         [HttpPost]
         public ActionResult AddAbonent(Abonent abonent, HttpPostedFileBase file)
         {
-            //формирование пути для сохранения нового файла
-            string path = Server.MapPath($"~/Images/{file.FileName}");
-            file.SaveAs(path);
-
-            using (DatabaseContext ctx = new DatabaseContext())
+            if (abonent.Name!=null&& abonent.SurName != null&& abonent.Number != null)
             {
-                ctx.Abonents.Add(new Abonent
+                using (DatabaseContext ctx = new DatabaseContext())
                 {
-                    Image = $"{file.FileName}",
-                    Name = abonent.Name,
-                    SurName = abonent.SurName,
-                    Number = abonent.Number
-                });
-                ctx.SaveChanges();
-                abonents = ctx.Abonents.ToList();
+                    Abonent addedAbonent = new Abonent
+                    {
+                        Name = abonent.Name,
+                        SurName = abonent.SurName,
+                        Number = abonent.Number
+                    };
+                    if (file != null)
+                    {
+                        //формирование пути для сохранения нового файла
+                        string path = Server.MapPath($"~/Images/{file.FileName}");
+                        file.SaveAs(path);
+                        addedAbonent.Image = file.FileName;
+                    }
+                    else addedAbonent.Image = "standart.png";
+
+                    ctx.Abonents.Add(addedAbonent);
+                    ctx.SaveChanges();
+                    abonents = ctx.Abonents.ToList();
+                }
             }
-            //добавление к общему списку
-            //abonents.Add(abonent);
 
             return View("Index",abonents);
         }
@@ -65,8 +71,6 @@ namespace DB_BookPhone.Controllers
             if (from is null)
                 return new HttpStatusCodeResult(System.Net.HttpStatusCode.BadRequest);
             var srchResult = abonents.Where(p => p.Name == from).ToList();
-            if(srchResult is null) 
-            ;
             return View("Index", srchResult);
         }
 
